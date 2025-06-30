@@ -14,6 +14,7 @@ This project was built as part of an internship task at *Prodigy Infotech* and s
   - *Celsius → Fahrenheit, Kelvin
   - *Fahrenheit → Celsius, Kelvin
   - *Kelvin → Celsius, Fahrenheit
+- ✅Recursion concept is used    
 - ✅ Uses simple formulas and clean logic for the temperature conversion
 - ✅ Built using *IntelliJ IDEA*
 - ✅ Beginner-friendly and easy to understand
